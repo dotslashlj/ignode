@@ -1,0 +1,11 @@
+{
+  "name": "ignode",
+  "version": "1.0.0",
+  "description": "A CodeIgniter Inspired Node.js framework for developing simple to medium scale applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "LJ Sta. Ana",
+  "license": "MIT"
+}
